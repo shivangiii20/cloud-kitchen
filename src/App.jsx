@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import TopBar from "./components/TopBar";
 import MainNavbar from "./components/MainNavbar";
 import MenuBar from "./components/MenuBar";
+import  Footer from "./components/Footer";0
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Menu from "./pages/Menu";
@@ -10,6 +11,7 @@ import Blog from "./pages/Blog";
 import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import MyAccount from "./pages/MyAccount";
+import Signup from "./pages/Signup";
 import Cart from "./pages/Cart";
 
 
@@ -42,8 +44,11 @@ function App() {
         <Route path="/gallery" element={<Gallery />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/myaccount" element={<MyAccount />} />
+        <Route path="/signup" element={<Signup />} />
         <Route path="/cart" element={<Cart />} />
       </Routes>
+
+      <Footer/>
 
       
     </>
