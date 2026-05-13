@@ -1,3 +1,4 @@
+
 import CategorySlider from "../components/CategorySlider";
 import ProductSection from "../components/ProductSection";
 import PromoBanner from "../components/PromoBanner";

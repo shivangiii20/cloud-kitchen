@@ -3,6 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import TopBar from "./components/TopBar";
 import MainNavbar from "./components/MainNavbar";
 import MenuBar from "./components/MenuBar";
+import CategoryPage from "./pages/CategoryPage";
 import  Footer from "./components/Footer";0
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -46,6 +47,7 @@ function App() {
         <Route path="/myaccount" element={<MyAccount />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/cart" element={<Cart />} />
+        <Route path="/category/:categoryName" element={<CategoryPage />}/>
       </Routes>
 
       <Footer/>
