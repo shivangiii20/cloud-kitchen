@@ -514,6 +514,366 @@ const foodData = [
     image: "/southindian/southindian6.jpg",
     price: 161,
   },
+
+
+  {
+    id: 65,
+    name: "Regular Home Style Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin1.jpg",
+    price: 129,
+  },
+
+
+  {
+    id: 66,
+    name: "Mini Veg Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin2.jpg",
+    price: 145,
+  },
+
+  {
+    id: 67,
+    name: "Deluxe Veg Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin3.jpg",
+    price: 179,
+  },
+
+  {
+    id: 68,
+    name: "Punjabi Veg Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin4.jpg",
+    price: 199,
+  },
+
+  {
+    id: 69,
+    name:"North Indian Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin5.jpg",
+    price: 149,
+  },
+
+  {
+    id: 70,
+    name:"Jain Veg Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin6.jpg",
+    price: 159,
+  },
+
+  {
+    id: 71,
+    name:"Healthy Diet Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin7.jpg",
+    price: 169,
+  },
+
+   {
+    id: 72,
+    name:"Daily Meal Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin8.jpg",
+    price: 129,
+  },
+
+  {
+    id: 73,
+    name:"Rajma Chawal Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin9.jpg",
+    price: 144,
+  },
+
+   {
+    id: 74,
+    name:"Paneer Special Tiffin",
+    category:  "Tiffin",
+    image: "/tiffin/tiffin10.jpg",
+    price: 179,
+  },
+
+  {
+    id: 75,
+    name:"Classic Veg Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie1.jpg",
+    price: 179,
+  },
+
+
+   {
+    id: 76,
+    name:"Cheese Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie2.jpg",
+    price: 179,
+  },
+
+
+  {
+    id: 77,
+    name:"Veg Loaded Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie3.jpg",
+    price: 179,
+  },
+
+  {
+    id: 78,
+    name:"Chilli Garlic Plain Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie4.jpg",
+    price: 179,
+  },
+
+  {
+    id: 79,
+    name:"Corn Cheese Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie5.jpg",
+    price: 179,
+  },
+
+  {
+    id: 80,
+    name:"Soupy Korean Style Maggie",
+    category:  "Maggie",
+    image: "/maggie/maggie6.jpg",
+    price: 179,
+  },
+
+  {
+    id: 81,
+    name:"Fresh Orange Juice",
+    category:  "Juice",
+    image: "/juice/juice1.jpg",
+    price: 179,
+  },
+
+
+  {
+    id: 82,
+    name:"Watermelon Juice",
+    category:  "Juice",
+    image: "/juice/juice2.jpg",
+    price: 179,
+  },
+
+
+   {
+    id: 83,
+    name:"Mango Juice",
+    category:  "Juice",
+    image: "/juice/juice3.jpg",
+    price: 179,
+  },
+
+
+  {
+    id: 84,
+    name:"Mosambi Juice",
+    category:  "Juice",
+    image: "/juice/juice4.jpg",
+    price: 179,
+  },
+
+  {
+    id: 85,
+    name:"Pomegranate Juice",
+    category:  "Juice",
+    image: "/juice/juice5.jpg",
+    price: 179,
+  },
+
+  {
+    id: 86,
+    name:"Mix Fruit Juice",
+    category:  "Juice",
+    image: "/juice/juice6.jpg",
+    price: 179,
+  },
+
+
+  {
+    id: 87,
+    name:"Carrot Beetroot Juice",
+    category:  "Juice",
+    image: "/juice/juice7.jpg",
+    price: 179,
+  },
+
+  {
+    id: 88,
+    name:"Kiwi Juice",
+    category:  "Juice",
+    image: "/juice/juice8.jpg",
+    price: 179,
+  },
+
+   {
+    id: 89,
+    name:"Strawberry Juice",
+    category:  "Juice",
+    image: "/juice/juice9.jpg",
+    price: 179,
+  },
+  {
+    id: 90,
+    name:"Coconut Water",
+    category:  "Juice",
+    image: "/juice/juice10.jpg",
+    price: 179,
+  },
+
+  {
+    id: 91,
+    name:"Aloo Tikki Chaat",
+    category:  "Chaat",
+    image: "/chaat/chaat1.jpg",
+    price: 179,
+  },
+
+  {
+    id: 92,
+    name:"Dahi Bhalla",
+    category:  "Chaat",
+    image: "/chaat/chaat2.jpg",
+    price: 179,
+  },
+
+   {
+    id: 93,
+    name:"Raj Kachori",
+    category:  "Chaat",
+    image: "/chaat/chaat3.jpg",
+    price: 179,
+  },
+
+  {
+    id: 94,
+    name:"Pani Puri",
+    category:  "Chaat",
+    image: "/chaat/chaat4.jpg",
+    price: 179,
+  },
+
+  {
+    id: 95,
+    name:"Bhel Puri",
+    category:  "Chaat",
+    image: "/chaat/chaat5.jpg",
+    price: 179,
+  },
+
+  {
+    id: 96,
+    name:"Samosa Chaat",
+    category:  "Chaat",
+    image: "/chaat/chaat6.jpg",
+    price: 179,
+  },
+
+  {
+    id: 97,
+    name:"Fruit Chaat",
+    category:  "Chaat",
+    image: "/chaat/chaat7.jpg",
+    price: 179,
+  },
+
+  {
+    id: 98,
+    name:"Paneer Butter Masala",
+    category:  "Paneer",
+    image: "/paneer/paneer1.jpg",
+    price: 229,
+  },
+
+  {
+    id: 99,
+    name:"Shahi Paneer",
+    category:  "Paneer",
+    image: "/paneer/paneer2.jpg",
+    price: 212,
+  },
+
+   {
+    id: 100,
+    name:"Kadhai Paneer",
+    category:  "Paneer",
+    image: "/paneer/paneer3.jpg",
+    price: 249,
+  },
+  
+  {
+    id: 101,
+    name:"Palak Paneer",
+    category:  "Paneer",
+    image: "/paneer/paneer4.jpg",
+    price: 259,
+  },
+
+  {
+    id: 102,
+    name:"Matar Paneer",
+    category:  "Paneer",
+    image: "/paneer/paneer5.jpg",
+    price: 236,
+  },
+
+  {
+    id: 103,
+    name:"Paneer Bhurji",
+    category:  "Paneer",
+    image: "/paneer/paneer6.jpg",
+    price: 266,
+  },
+  
+  {
+    id: 104,
+    name: "Malai Paneer Tikka",
+    category:  "Paneer",
+    image: "/paneer/paneer7.jpg",
+    price: 279,
+  },
+
+  {
+    id: 105,
+    name: "Tandoori Chaap",
+    category:  "Chaap",
+    image: "/chaap/chaap1.jpg",
+    price: 219,
+  },
+
+   {
+    id: 106,
+    name: "Malai Chaap",
+    category:  "Chaap",
+    image: "/chaap/chaap2.jpg",
+    price: 249,
+  },
+
+  {
+    id: 107,
+    name: "Achari Chaap",
+    category:  "Chaap",
+    image: "/chaap/chaap3.jpg",
+    price: 249,
+  },
+
+   {
+    id: 108,
+    name: "Veg Thali",
+    category:  "Thali",
+    image: "/thali/thali1.jpg",
+    price: 249,
+  },
+
 ];
 
 export default foodData;
